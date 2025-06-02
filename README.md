@@ -32,9 +32,4 @@ It provides an interactive **Streamlit** web app to input problem parameters, vi
 
 ```bash
 git clone https://github.com/sanjuGuna/Knapsack_problem.git
-cd knapsack-visualization
-
-###To run the file
-```bash
-streamlit run indexpy.py
-
+cd Knapsack_problem
