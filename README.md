@@ -31,5 +31,10 @@ It provides an interactive **Streamlit** web app to input problem parameters, vi
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/knapsack-visualization.git
+git clone https://github.com/sanjuGuna/Knapsack_problem.git
 cd knapsack-visualization
+
+###To run the file
+```bash
+streamlit run indexpy.py
+
